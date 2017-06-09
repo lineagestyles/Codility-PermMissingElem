@@ -1,6 +1,6 @@
 LESSON 3 TASK 1 - PermMissingElem
 ----------------------------------------
-THIS CODE GIVE 100%
+100% ON CODILITY
 ----------------------------------------
 
 A zero-indexed array A consisting of N different integers is given. The array contains integers in the range [1..(N + 1)], which means that exactly one element is missing.
